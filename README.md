@@ -1,4 +1,4 @@
-# Chess
+# Chess Game
 This is a chess game implemented as a console application.
 You can experience most of the real board game with this simple app (Some more complex rules are not included)
 How to play:
